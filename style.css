@@ -1,0 +1,135 @@
+* {
+    margin: 0%;
+    padding-left: 0.2%;
+    margin-bottom: 0.3%;
+}
+
+.header {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 1.5%;
+}
+.strong {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.span {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.enfasis {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.small {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.s {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.cite {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.definition {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.abbreviation {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.time {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.kbd {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.sub {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.sup {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.i {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.b {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.mark {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.img {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.hipertext {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.del {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.ins {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.Lists {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.table {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.forms {
+    background-color: lightgray;
+    padding: 1.5%;
+}
+fieldset {
+    background-color: whitesmoke;
+    padding: 1.5%;
+}
+p {
+    background-color: rgb(255, 237, 239);
+    padding: 1.5%;
+}
+.tabindex {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.details-suummary {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.dialog {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.iframe {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.object {
+    background-color: lightblue;
+    padding: 1.5%;
+}
+.video {
+    background-color: rgb(171, 227, 171);
+    padding: 1.5%;
+}
+.pdf {
+    background-color: lightblue;
+    padding: 1.5%;
+}
